@@ -7,9 +7,7 @@ A template i created to help my (future) self building clustering model not from
 Clustering is an unsupervised learning to classify our observations into certain number (k) of clusters.
 Examples of implementation are for customer segmentations, sports player profiling, etc.
 
-### Machine learning algorithm:
-Clustering model with the following algorithms:
-    - K-means Clustering
+Clustering model with K-means Clustering algorithm.
 
 ### Data analytics process include:
 
